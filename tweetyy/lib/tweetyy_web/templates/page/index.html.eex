@@ -1,0 +1,11 @@
+<h2> HEloo tweetz</h2>
+
+<ul class="tweet-list">
+</ul>
+
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function() {
+    var el = document.querySelector(".tweet-list")
+    window.startTermStream("trump", el)
+  })
+</script>
