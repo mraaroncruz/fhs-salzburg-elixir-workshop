@@ -36,7 +36,15 @@ is the phoenix app
 
 `mix ecto.create` creates a postgres db if your db is set up correctly
 
+## Exercises
+
+- Do sentiment analysis on the incoming tweet stream. You could also display it in the Phoenix app
+
+- Add a feature or two to the Phoenix app
+
 ## Resources
+
+__Sentiment Analysis__
 
 - Sentiment analysis https://github.com/dantame/sentient/
 - More robust sentiment analysis https://github.com/cblavier/twitter-feelings
