@@ -1,4 +1,6 @@
 ## Don't forget to get your twitter creds at https://apps.twitter.com
+
+[![Join the chat at https://gitter.im/fhs-salzburg-elixir-workshop/Lobby](https://badges.gitter.im/fhs-salzburg-elixir-workshop/Lobby.svg)](https://gitter.im/fhs-salzburg-elixir-workshop/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 add them to
 - `tweetys/config/config`
 - `tweetyy/config/dev.exs`
